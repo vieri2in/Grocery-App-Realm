@@ -7,7 +7,7 @@ Users can add, delete, or update lists or items.
 
 
 ## Modularity
-The amazing point of the code is that adding and updating items can utilize the same AddShoppingListItemView. The key is to pass the selected item as a parameter into the next view. So the next view have enough info to do its tasks.
+The 🎉amazing👏 point of the code is that adding and updating items can utilize the same AddShoppingListItemView. The key is to pass the selected item as a parameter into the next view. So the next view have enough info to do its tasks.
 
 <img src="https://github.com/vieri2in/Grocery-App-Realm/assets/97074757/6ca63c3c-f93b-4103-acfb-612f2bf4ddc5"  width=49% height=49%> 
 
