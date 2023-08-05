@@ -18,6 +18,7 @@ The amazing point of the code is that adding and updating items can utilize the 
 <img src="https://github.com/vieri2in/Grocery-App-Realm/assets/97074757/242fc07d-04a6-441f-9cab-a88704d4cc39"  width=49% height=49%>
 
 ## Demo video:
+
 https://github.com/vieri2in/Grocery-App-Realm/assets/97074757/56b0c6f8-8d21-4f67-93e7-f415f82072b9
 
 <img src="https://github.com/vieri2in/Grocery-App-Realm/assets/97074757/666e46c6-d50f-4053-a7d9-b3e4aaa49528"  width=29% height=29%>
