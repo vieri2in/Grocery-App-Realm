@@ -1,7 +1,7 @@
 # Grocery-App-Realm
 ---
 ## This app displays shopping lists on the home screen, each list containing an array of shopping items.
-Users can add, delete, or update lists or items. 
+Users can add➕, delete➖, or update⚒️ lists or items. 
 
 <img src="https://github.com/vieri2in/Grocery-App-Realm/assets/97074757/890362da-99c0-48e1-8aa4-f9cf5d49362f"  width=24% height=24%> <img src="https://github.com/vieri2in/Grocery-App-Realm/assets/97074757/6edc9d78-ddb6-4638-b286-748bb999ecb4"  width=24% height=24%> <img src="https://github.com/vieri2in/Grocery-App-Realm/assets/97074757/0e482d5a-1ec9-4e1c-b5ec-84f1dfb19125"  width=24% height=24%> <img src="https://github.com/vieri2in/Grocery-App-Realm/assets/97074757/de4999aa-6f4a-4a7d-8af7-720c9c0368d6"  width=24% height=24%>
 
